@@ -32,7 +32,7 @@ Show Image Show Image Show Image Show Image Show Image <br/> Show Image Show Ima
 
 </div> <br/>
 📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lyric9901&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7"/> <img height="165" src="https://streak-stats.demolab.com?user=lyric9901&theme=radical&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/> <br/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lyric9901&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9A7&langs_count=8"/> </div> <br/>
+<div align="center"> <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lyric9901&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7"/> <img height="165" src="https://streak-stats.demolab.com?user=lyric9901&theme=radical&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/> <br/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lyric9901&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9A7&langs_count=92"/> </div> <br/>
 🏆 Trophies
 <div align="center">
 
